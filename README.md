@@ -1,6 +1,6 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name:Bedatu Assefa 
+Student Name:Beamlak_Bedatu 
 
 Track Name: Mobile Application 
 
